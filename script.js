@@ -6,7 +6,7 @@ const clickableHeader = document.getElementById("clickable");
   h1Element.style.color = "orange";
 
 clickableHeader.addEventListener("click", (event) => {
-    clickableHeader.textContent += " Me hicieron click";
+    clickableHeader.textContent = "Te engañé Xd";
     clickableHeader.style.color = "beige";
 
 })
