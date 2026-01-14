@@ -2,4 +2,20 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+h1{
+  color: green;
+}
+
+.blue {
+  color: blue;
+  font-size: 20px;
+}
+
+#red{
+  color: red;
+  font-size: 32px;
+}
+h3{
+  color: greenyellow;
+  font-size: 26px;
+}
